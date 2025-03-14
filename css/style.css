@@ -32,7 +32,7 @@ html, body{
     nav .signin{
         color: #fff;
         float: right;
-        background-color: #e50914;
+        background-color: #bd1a1a;
         line-height: normal;
         margin-top: 18px;
         margin-right: 3%;
@@ -82,13 +82,13 @@ html, body{
     }
 
     nav .signin:hover, .btn:hover{
-        background: #f40612;
+        background: #1e1c1c;
     }
 
     #features > nav {
         padding-top: 35px;
-        background-color: #141414;
-        border-bottom: 2px solid #3d3d3d;
+        background-color: #1a1818;
+        border-bottom: 2px solid #571818;
     }
 
     #features >nav a {
